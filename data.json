@@ -69,7 +69,14 @@
               "id": "mw19dy67w2kb",
               "type": "folder",
               "name": "photos",
-              "files": []
+              "files": [
+                {
+                  "id": "mw19e4qif2w7",
+                  "type": "folder",
+                  "name": "section1",
+                  "files": []
+                }
+              ]
             }
           ]
         },
