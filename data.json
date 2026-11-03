@@ -635,6 +635,12 @@
           ]
         }
       ]
+    },
+    {
+      "id": "mw19xnel45t6",
+      "type": "folder",
+      "name": "distributed",
+      "files": []
     }
   ]
 }
