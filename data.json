@@ -95,7 +95,14 @@
               "id": "mw19637v8dm2",
               "type": "folder",
               "name": "mid2",
-              "files": []
+              "files": [
+                {
+                  "id": "mw196omn4ui9",
+                  "type": "file",
+                  "name": "WhatsApp Image 2026-11-04 at 12.20.19 AM.jpeg",
+                  "path": "files/1793744537610-WhatsApp_Image_2026-11-04_at_12.20.19_AM.jpeg"
+                }
+              ]
             }
           ]
         },
