@@ -166,7 +166,14 @@
               "id": "mw19cjd9irjf",
               "type": "folder",
               "name": "mid7",
-              "files": []
+              "files": [
+                {
+                  "id": "mw19ddoectzh",
+                  "type": "file",
+                  "name": "mid7.jpeg",
+                  "path": "files/1793744849888-mid7.jpeg"
+                }
+              ]
             }
           ]
         },
