@@ -640,7 +640,26 @@
       "id": "mw19xnel45t6",
       "type": "folder",
       "name": "distributed",
-      "files": []
+      "files": [
+        {
+          "id": "mw1a0qc3760y",
+          "type": "file",
+          "name": "WhatsApp Image 2026-11-04 at 12.44.23 AM.jpeg",
+          "path": "files/1793745937900-WhatsApp_Image_2026-11-04_at_12.44.23_AM.jpeg"
+        },
+        {
+          "id": "mw1a0ssjjjax",
+          "type": "file",
+          "name": "Midterm_Revision_Sheet_1_and_2_Distributed_Computer_Systems.pdf",
+          "path": "files/1793745941331-Midterm_Revision_Sheet_1_and_2_Distributed_Computer_Systems.pdf"
+        },
+        {
+          "id": "mw1a0vdk23xd",
+          "type": "file",
+          "name": "Study_Guide_For_Midterm_Distributed_Computer_Systems.pdf",
+          "path": "files/1793745944515-Study_Guide_For_Midterm_Distributed_Computer_Systems.pdf"
+        }
+      ]
     }
   ]
 }
