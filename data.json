@@ -144,7 +144,14 @@
           "id": "mw1855bhr0c4",
           "type": "folder",
           "name": "midterm",
-          "files": []
+          "files": [
+            {
+              "id": "mw18jb1nnn4f",
+              "type": "folder",
+              "name": "mid1",
+              "files": []
+            }
+          ]
         },
         {
           "id": "mw185e60z95a",
