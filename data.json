@@ -147,7 +147,20 @@
               "id": "mw19ce8jw7jf",
               "type": "folder",
               "name": "mid6",
-              "files": []
+              "files": [
+                {
+                  "id": "mw19d3k525zr",
+                  "type": "file",
+                  "name": "mid6b.jpeg",
+                  "path": "files/1793744836702-mid6b.jpeg"
+                },
+                {
+                  "id": "mw19d5bze9td",
+                  "type": "file",
+                  "name": "mid6a.jpeg",
+                  "path": "files/1793744838725-mid6a.jpeg"
+                }
+              ]
             },
             {
               "id": "mw19cjd9irjf",
