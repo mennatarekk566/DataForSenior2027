@@ -75,6 +75,12 @@
                   "type": "folder",
                   "name": "section1",
                   "files": []
+                },
+                {
+                  "id": "mw19eatbbpkx",
+                  "type": "folder",
+                  "name": "section2",
+                  "files": []
                 }
               ]
             }
