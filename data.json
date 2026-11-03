@@ -142,7 +142,20 @@
                   "id": "mw19eu662skg",
                   "type": "folder",
                   "name": "section3",
-                  "files": []
+                  "files": [
+                    {
+                      "id": "mw19unze88a2",
+                      "type": "file",
+                      "name": "xzxz.jpeg",
+                      "path": "files/1793745655998-xzxz.jpeg"
+                    },
+                    {
+                      "id": "mw19upg151qw",
+                      "type": "file",
+                      "name": "WhatsApp Image 2026-11-04 at 12.31.09 AM.jpeg",
+                      "path": "files/1793745658346-WhatsApp_Image_2026-11-04_at_12.31.09_AM.jpeg"
+                    }
+                  ]
                 },
                 {
                   "id": "mw19ezvfwsbk",
