@@ -134,7 +134,14 @@
               "id": "mw19c8djqbyz",
               "type": "folder",
               "name": "mid5",
-              "files": []
+              "files": [
+                {
+                  "id": "mw19cu4bc24t",
+                  "type": "file",
+                  "name": "mid5.jpeg",
+                  "path": "files/1793744823986-mid5.jpeg"
+                }
+              ]
             },
             {
               "id": "mw19ce8jw7jf",
