@@ -161,7 +161,32 @@
                   "id": "mw19ezvfwsbk",
                   "type": "folder",
                   "name": "section4",
-                  "files": []
+                  "files": [
+                    {
+                      "id": "mw19w5tnggup",
+                      "type": "file",
+                      "name": "fgd.jpeg",
+                      "path": "files/1793745725512-fgd.jpeg"
+                    },
+                    {
+                      "id": "mw19w7aodcci",
+                      "type": "file",
+                      "name": "WhatsApp Image 2026-11-04 at 12.32.36 fddAM.jpeg",
+                      "path": "files/1793745728123-WhatsApp_Image_2026-11-04_at_12.32.36_fddAM.jpeg"
+                    },
+                    {
+                      "id": "mw19w8wd7unu",
+                      "type": "file",
+                      "name": "WhatsApp Image 2026-11-04 at 12.32.36 AM.jpeg",
+                      "path": "files/1793745730032-WhatsApp_Image_2026-11-04_at_12.32.36_AM.jpeg"
+                    },
+                    {
+                      "id": "mw19wag37img",
+                      "type": "file",
+                      "name": "WhatsApp Image 2026-11-04 at 12.31.09 AM.jpeg",
+                      "path": "files/1793745732109-WhatsApp_Image_2026-11-04_at_12.31.09_AM.jpeg"
+                    }
+                  ]
                 }
               ]
             }
