@@ -246,7 +246,14 @@
           "id": "mw18szhvmsnj",
           "type": "folder",
           "name": "link for code",
-          "files": []
+          "files": [
+            {
+              "id": "mw18tb45popt",
+              "type": "file",
+              "name": "Digital-Image-Processing-Link.docx",
+              "path": "files/1793743913275-Digital-Image-Processing-Link.docx"
+            }
+          ]
         }
       ]
     }
