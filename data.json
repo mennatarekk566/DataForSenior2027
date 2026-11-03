@@ -149,7 +149,20 @@
               "id": "mw18jb1nnn4f",
               "type": "folder",
               "name": "mid1",
-              "files": []
+              "files": [
+                {
+                  "id": "mw18kf2bjodr",
+                  "type": "file",
+                  "name": "WhatsApp Image 2026-11-04 at 12.03.11 AMzz.jpeg",
+                  "path": "files/1793743498309-WhatsApp_Image_2026-11-04_at_12.03.11_AMzz.jpeg"
+                },
+                {
+                  "id": "mw18kgi2qn55",
+                  "type": "file",
+                  "name": "WhatsApp Image 2026-11-04 at 12.03.11 AM.jpeg",
+                  "path": "files/1793743500612-WhatsApp_Image_2026-11-04_at_12.03.11_AM.jpeg"
+                }
+              ]
             }
           ]
         },
