@@ -52,7 +52,44 @@
           "id": "mw184utm1soe",
           "type": "folder",
           "name": "sections",
-          "files": []
+          "files": [
+            {
+              "id": "mw186lqqdr2s",
+              "type": "file",
+              "name": "w7.pdf",
+              "path": "files/1793742852585-w7.pdf"
+            },
+            {
+              "id": "mw186nggbqtp",
+              "type": "file",
+              "name": "w6.pdf",
+              "path": "files/1793742856082-w6.pdf"
+            },
+            {
+              "id": "mw186pkv4k1c",
+              "type": "file",
+              "name": "w5.pdf",
+              "path": "files/1793742858304-w5.pdf"
+            },
+            {
+              "id": "mw186relypzc",
+              "type": "file",
+              "name": "w4.pdf",
+              "path": "files/1793742861055-w4.pdf"
+            },
+            {
+              "id": "mw186suv8ge2",
+              "type": "file",
+              "name": "w3.pdf",
+              "path": "files/1793742863421-w3.pdf"
+            },
+            {
+              "id": "mw186vp9jxua",
+              "type": "file",
+              "name": "w12.pdf",
+              "path": "files/1793742865303-w12.pdf"
+            }
+          ]
         },
         {
           "id": "mw1855bhr0c4",
