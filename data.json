@@ -156,7 +156,14 @@
           "id": "mw185zwxdm12",
           "type": "folder",
           "name": "quiz online 2027",
-          "files": []
+          "files": [
+            {
+              "id": "mw18g3d2o3pe",
+              "type": "file",
+              "name": "Quiz image .pdf",
+              "path": "files/1793743297047-Quiz_image_.pdf"
+            }
+          ]
         }
       ]
     }
