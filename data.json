@@ -665,7 +665,14 @@
       "id": "mw1a122030uh",
       "type": "folder",
       "name": "law",
-      "files": []
+      "files": [
+        {
+          "id": "mw1a1qm06sah",
+          "type": "file",
+          "name": "شيت midterm.pdf",
+          "path": "files/1793745984971-_midterm.pdf"
+        }
+      ]
     }
   ]
 }
