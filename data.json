@@ -121,7 +121,14 @@
               "id": "mw1976eudx13",
               "type": "folder",
               "name": "mid4",
-              "files": []
+              "files": [
+                {
+                  "id": "mw198e3natth",
+                  "type": "file",
+                  "name": "xxx.jpeg",
+                  "path": "files/1793744616955-xxx.jpeg"
+                }
+              ]
             }
           ]
         },
