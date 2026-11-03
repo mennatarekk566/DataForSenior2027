@@ -46,7 +46,14 @@
           "id": "mw184ptdl1pn",
           "type": "folder",
           "name": "lectures2025/2026",
-          "files": []
+          "files": [
+            {
+              "id": "mw18bmw94uro",
+              "type": "file",
+              "name": "Digital image processing Revision.pdf",
+              "path": "files/1793743086548-Digital_image_processing_Revision.pdf"
+            }
+          ]
         },
         {
           "id": "mw184utm1soe",
