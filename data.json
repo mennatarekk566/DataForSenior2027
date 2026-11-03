@@ -76,7 +76,20 @@
               "id": "mw194paak6md",
               "type": "folder",
               "name": "mid1",
-              "files": []
+              "files": [
+                {
+                  "id": "mw195m0vzz35",
+                  "type": "file",
+                  "name": "midd1.jpeg",
+                  "path": "files/1793744487259-midd1.jpeg"
+                },
+                {
+                  "id": "mw195neblsp2",
+                  "type": "file",
+                  "name": "mid1.jpeg",
+                  "path": "files/1793744489407-mid1.jpeg"
+                }
+              ]
             }
           ]
         },
