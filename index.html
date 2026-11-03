@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Data for Level 4 | Seniors 27</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <i class="c c1"></i><i class="c c2"></i><i class="c c3"></i>
+  <nav class="nav"><span class="logo">L4</span><button id="adminBtn" class="ghost">Admin login</button></nav>
+  <div class="hero-in">
+    <div>
+      <h1>Data for<br>Level 4</h1>
+      <p class="sub">Lectures, summaries and study files, all in one place.</p>
+    </div>
+    <div class="stampwrap"><div class="docs" aria-hidden="true"><i></i><i></i><i></i></div><div class="stamp" aria-label="Seniors 27"><span>Seniors</span><b>27</b></div></div>
+  </div>
+  <svg class="wave" viewBox="0 0 1440 70" preserveAspectRatio="none" aria-hidden="true"><path d="M0 40 C240 90 480 0 720 30 S1200 80 1440 20 V70 H0Z" fill="#fff"/></svg>
+</header>
+<div class="band" aria-hidden="true"><div class="track"><span>Seniors 27</span><span class="st">&#10022;</span><span>Level 4</span><span class="st">&#10022;</span><span>Seniors 27</span><span class="st">&#10022;</span><span>Level 4</span><span class="st">&#10022;</span><span>Seniors 27</span><span class="st">&#10022;</span><span>Level 4</span><span class="st">&#10022;</span><span>Seniors 27</span><span class="st">&#10022;</span><span>Level 4</span><span class="st">&#10022;</span><span>Seniors 27</span><span class="st">&#10022;</span><span>Level 4</span><span class="st">&#10022;</span><span>Seniors 27</span><span class="st">&#10022;</span><span>Level 4</span><span class="st">&#10022;</span><span>Seniors 27</span><span class="st">&#10022;</span><span>Level 4</span><span class="st">&#10022;</span><span>Seniors 27</span><span class="st">&#10022;</span><span>Level 4</span><span class="st">&#10022;</span><span>Seniors 27</span><span class="st">&#10022;</span><span>Level 4</span><span class="st">&#10022;</span><span>Seniors 27</span><span class="st">&#10022;</span><span>Level 4</span><span class="st">&#10022;</span><span>Seniors 27</span><span class="st">&#10022;</span><span>Level 4</span><span class="st">&#10022;</span><span>Seniors 27</span><span class="st">&#10022;</span><span>Level 4</span><span class="st">&#10022;</span></div></div>
+
+<main>
+  <section id="panel" class="panel" hidden>
+    <div class="row between"><h2>Admin panel</h2><button id="logout" class="ghost dark">Log out</button></div>
+    <details id="cfg">
+      <summary>GitHub connection</summary>
+      <p class="hint">Needed once. Create a fine-grained token for this repository with "Contents: Read and write". It stays only in this browser.</p>
+      <div class="grid">
+        <label>Owner<input id="owner"></label>
+        <label>Repository<input id="repo"></label>
+        <label>Branch<input id="branch" value="main"></label>
+        <label>Token<input id="token" type="password" autocomplete="off"></label>
+      </div>
+      <button id="saveCfg">Save connection</button>
+    </details>
+    <div class="grid">
+      <div class="box"><h3>New folder</h3>
+        <select id="folderParent" aria-label="Create inside"><option value="">Main page</option></select>
+        <input id="folderName" placeholder="Folder name">
+        <button id="addFolder">Create folder</button></div>
+      <div class="box"><h3>Upload files</h3>
+        <select id="target"><option value="">Main page</option></select>
+        <input id="fileInput" type="file" multiple>
+        <button id="upload">Upload</button></div>
+    </div>
+    <p id="msg" role="status"></p>
+  </section>
+
+  <section class="stats">
+    <div><b id="sFolders">0</b><span>Folders</span></div>
+    <div><b id="sFiles">0</b><span>Files</span></div>
+    <input id="q" type="search" placeholder="Search files" aria-label="Search files">
+  </section>
+  <section id="list" class="list" aria-live="polite"></section>
+</main>
+<footer class="foot">Data for Level 4 &middot; Seniors 27</footer>
+
+<dialog id="login">
+  <form method="dialog" id="loginForm">
+    <h2>Admin login</h2>
+    <label>Username<input id="u" autocomplete="username"></label>
+    <label>Password<input id="p" type="password" autocomplete="current-password"></label>
+    <p id="err" class="err"></p>
+    <div class="row"><button type="submit">Log in</button><button type="button" class="ghost dark" id="cancel">Cancel</button></div>
+  </form>
+</dialog>
+<script src="app.js"></script>
+</body>
+</html>
