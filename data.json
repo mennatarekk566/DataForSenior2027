@@ -71,7 +71,14 @@
           "id": "mw183l9uu7et",
           "type": "folder",
           "name": "midterm",
-          "files": []
+          "files": [
+            {
+              "id": "mw194paak6md",
+              "type": "folder",
+              "name": "mid1",
+              "files": []
+            }
+          ]
         },
         {
           "id": "mw183sj5w08g",
