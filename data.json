@@ -74,7 +74,26 @@
                   "id": "mw19e4qif2w7",
                   "type": "folder",
                   "name": "section1",
-                  "files": []
+                  "files": [
+                    {
+                      "id": "mw19q6ubks5u",
+                      "type": "file",
+                      "name": "ghgf.jpeg",
+                      "path": "files/1793745446823-ghgf.jpeg"
+                    },
+                    {
+                      "id": "mw19q8ekcd3x",
+                      "type": "file",
+                      "name": "xzx.jpeg",
+                      "path": "files/1793745449507-xzx.jpeg"
+                    },
+                    {
+                      "id": "mw19q9vo7fly",
+                      "type": "file",
+                      "name": "WhatsApp Image 2026-11-04 at 12.29.57 AM.jpeg",
+                      "path": "files/1793745451532-WhatsApp_Image_2026-11-04_at_12.29.57_AM.jpeg"
+                    }
+                  ]
                 },
                 {
                   "id": "mw19eatbbpkx",
