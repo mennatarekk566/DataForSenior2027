@@ -9,7 +9,32 @@
           "id": "mw1835kfc2ac",
           "type": "folder",
           "name": "compiler lecture",
-          "files": []
+          "files": [
+            {
+              "id": "mw19354dw7wh",
+              "type": "file",
+              "name": "Lecture 5.pdf",
+              "path": "files/1793744369766-Lecture_5.pdf"
+            },
+            {
+              "id": "mw1938p0xlyh",
+              "type": "file",
+              "name": "Lecture 3,4x.pdf",
+              "path": "files/1793744374189-Lecture_3_4x.pdf"
+            },
+            {
+              "id": "mw193b0k41bo",
+              "type": "file",
+              "name": "Compilers_Lecture 2.pdf",
+              "path": "files/1793744378820-Compilers_Lecture_2.pdf"
+            },
+            {
+              "id": "mw193cso1v4a",
+              "type": "file",
+              "name": "Compilers_Lecture 1.pdf",
+              "path": "files/1793744381829-Compilers_Lecture_1.pdf"
+            }
+          ]
         },
         {
           "id": "mw183gjbe9xv",
