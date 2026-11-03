@@ -108,7 +108,14 @@
               "id": "mw1971o19as4",
               "type": "folder",
               "name": "mid3",
-              "files": []
+              "files": [
+                {
+                  "id": "mw1984viadj2",
+                  "type": "file",
+                  "name": "WhatsApp Image 2026-11-04 at 12.20.18 AM.jpeg",
+                  "path": "files/1793744604197-WhatsApp_Image_2026-11-04_at_12.20.18_AM.jpeg"
+                }
+              ]
             },
             {
               "id": "mw1976eudx13",
