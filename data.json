@@ -15,7 +15,32 @@
           "id": "mw183gjbe9xv",
           "type": "folder",
           "name": "compiler section",
-          "files": []
+          "files": [
+            {
+              "id": "mw191zx7th57",
+              "type": "file",
+              "name": "LAC_week_1(sheet1)_solved.docx",
+              "path": "files/1793744315235-LAC_week_1_sheet1__solved.docx"
+            },
+            {
+              "id": "mw1923tdexvv",
+              "type": "file",
+              "name": "LAC_Exerc_week_2_3_solved.pdf",
+              "path": "files/1793744320795-LAC_Exerc_week_2_3_solved.pdf"
+            },
+            {
+              "id": "mw1925shtk6q",
+              "type": "file",
+              "name": "LAC_sheet_3_2018(Sheet 3).pdf",
+              "path": "files/1793744325841-LAC_sheet_3_2018_Sheet_3_.pdf"
+            },
+            {
+              "id": "mw19283sfd9x",
+              "type": "file",
+              "name": "minimisation .pdf",
+              "path": "files/1793744328401-minimisation_.pdf"
+            }
+          ]
         },
         {
           "id": "mw183l9uu7et",
