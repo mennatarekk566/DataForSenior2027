@@ -35,7 +35,14 @@
       "id": "mw184c5f2uf0",
       "type": "folder",
       "name": "image processing",
-      "files": []
+      "files": [
+        {
+          "id": "mw184ptdl1pn",
+          "type": "folder",
+          "name": "lectures2025/2026",
+          "files": []
+        }
+      ]
     }
   ]
 }
