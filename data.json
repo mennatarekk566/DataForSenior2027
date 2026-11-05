@@ -721,7 +721,14 @@
           "id": "mw3u9pgt7xoi",
           "type": "folder",
           "name": "mid10-11-2025",
-          "files": []
+          "files": [
+            {
+              "id": "mw3ud4h6kr8d",
+              "type": "file",
+              "name": "Midterm (10-11-2025).pdf",
+              "path": "files/1793901041919-Midterm_10-11-2025_.pdf"
+            }
+          ]
         }
       ]
     }
