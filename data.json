@@ -695,7 +695,14 @@
           "id": "mw3u8uy7i91d",
           "type": "folder",
           "name": "mid12-11-2024",
-          "files": []
+          "files": [
+            {
+              "id": "mw3uch4adjle",
+              "type": "file",
+              "name": "Midterm (12-11-2024).pdf",
+              "path": "files/1793901009783-Midterm_12-11-2024_.pdf"
+            }
+          ]
         },
         {
           "id": "mw3u9c763r72",
