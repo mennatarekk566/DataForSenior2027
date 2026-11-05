@@ -1,5 +1,6 @@
 const $=id=>document.getElementById(id);
-const ADMIN_USER='admin',ADMIN_PASS='1963';
+const U_HASH='1fc943647360bda0fd83f3a3f006433f65c61b9d75a5bfff0ddd5be59b4a7c80',P_HASH='dc704a23a774102a42272ee7f6880c30d5c0bbf3d7c34a38731ecb09e4cc2310';
+const sha=async s=>{const b=await crypto.subtle.digest('SHA-256',new TextEncoder().encode('l4|'+s));return[...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,'0')).join('')};
 let data={items:[]},isAdmin=sessionStorage.getItem('adm')==='1';
 const host=location.hostname.endsWith('github.io');
 const get=k=>{try{return localStorage.getItem(k)||''}catch(e){return ''}};
@@ -114,9 +115,13 @@ $('saveCfg').onclick=()=>{['owner','repo','branch','token'].forEach(k=>set('gh_'
 /* Login */
 $('adminBtn').onclick=()=>$('login').showModal();
 $('cancel').onclick=()=>$('login').close();
-$('loginForm').onsubmit=e=>{
-  if($('u').value===ADMIN_USER&&$('p').value===ADMIN_PASS){sessionStorage.setItem('adm','1');isAdmin=true;$('login').close();render()}
-  else{e.preventDefault();$('err').textContent='Wrong username or password.'}
+$('loginForm').onsubmit=async e=>{
+  e.preventDefault();
+  try{
+    const [hu,hp]=await Promise.all([sha($('u').value.trim()),sha($('p').value)]);
+    if(hu===U_HASH&&hp===P_HASH){sessionStorage.setItem('adm','1');isAdmin=true;$('err').textContent='';$('login').close();render()}
+    else $('err').textContent='Wrong username or password.';
+  }catch(x){$('err').textContent='Login needs a secure (https) page.'}
 };
 $('logout').onclick=()=>{sessionStorage.removeItem('adm');isAdmin=false;render()};
 
