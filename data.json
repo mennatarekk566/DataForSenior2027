@@ -418,7 +418,14 @@
           "id": "mw3uahku5l3p",
           "type": "folder",
           "name": "ملخص نظري",
-          "files": []
+          "files": [
+            {
+              "id": "mw3udu3dv1hb",
+              "type": "file",
+              "name": "Compiler.pdf",
+              "path": "files/1793901066534-Compiler.pdf"
+            }
+          ]
         }
       ]
     },
