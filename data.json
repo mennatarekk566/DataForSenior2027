@@ -741,7 +741,14 @@
           "id": "mw3uemwhh05s",
           "type": "folder",
           "name": "mid for law2018",
-          "files": []
+          "files": [
+            {
+              "id": "mw3ueycyv962",
+              "type": "file",
+              "name": "Midterm (11-2024) Law 2018.pdf",
+              "path": "files/1793901125727-Midterm_11-2024_Law_2018.pdf"
+            }
+          ]
         }
       ]
     }
