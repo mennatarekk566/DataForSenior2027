@@ -437,7 +437,14 @@
           "id": "mw3uv0xj3jre",
           "type": "folder",
           "name": "Quiz Lec Dr shreen",
-          "files": []
+          "files": [
+            {
+              "id": "mw3uvc0siyjr",
+              "type": "file",
+              "name": "Compilers_Quiz_Solution.pdf",
+              "path": "files/1793901891220-Compilers_Quiz_Solution.pdf"
+            }
+          ]
         }
       ]
     },
