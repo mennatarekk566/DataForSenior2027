@@ -708,7 +708,14 @@
           "id": "mw3u9c763r72",
           "type": "folder",
           "name": "mid11-11-2024",
-          "files": []
+          "files": [
+            {
+              "id": "mw3uctoh7yk3",
+              "type": "file",
+              "name": "Midterm (11-11-2024).pdf",
+              "path": "files/1793901028443-Midterm_11-11-2024_.pdf"
+            }
+          ]
         },
         {
           "id": "mw3u9pgt7xoi",
