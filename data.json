@@ -606,6 +606,12 @@
               "type": "file",
               "name": "Quiz image .pdf",
               "path": "files/1793743297047-Quiz_image_.pdf"
+            },
+            {
+              "id": "mw3upustfllp",
+              "type": "file",
+              "name": "Image quiz with answer.pdf",
+              "path": "files/1793901634976-Image_quiz_with_answer.pdf"
             }
           ]
         },
