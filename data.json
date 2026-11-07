@@ -707,7 +707,32 @@
           "id": "mw6iy1rftnkf",
           "type": "folder",
           "name": "Sections",
-          "files": []
+          "files": [
+            {
+              "id": "mw6izbllhwfo",
+              "type": "file",
+              "name": "DCS- Section Four.pdf",
+              "path": "files/1794063320818-DCS-_Section_Four.pdf"
+            },
+            {
+              "id": "mw6izdvw2nfu",
+              "type": "file",
+              "name": "DCS - Section Three.pdf",
+              "path": "files/1794063323001-DCS_-_Section_Three.pdf"
+            },
+            {
+              "id": "mw6izfzyas3v",
+              "type": "file",
+              "name": "Section Two - DCS.pdf",
+              "path": "files/1794063325964-Section_Two_-_DCS.pdf"
+            },
+            {
+              "id": "mw6izj5swbkc",
+              "type": "file",
+              "name": "Section One - DCS.pdf",
+              "path": "files/1794063328702-Section_One_-_DCS.pdf"
+            }
+          ]
         }
       ]
     },
